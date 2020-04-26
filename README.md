@@ -1,6 +1,6 @@
 # Investigating-Fandango-Movie-Ratings
 
-I explored the rating differences for popular movies between 2015 and 2016 years from Fandango website. I used pandas to open and obtain data. I pulled the data from 2 different data set. I used entries only for 2015 and 2016 years. I used numpy and matplotlib to visualize the results.
+I explored the rating differences for popular movies between 2015 and 2016 years from Fandango website. I used pandas to open and obtain data. I pulled the data from 2 different data set. I used entries only for 2015 and 2016 years. I studied on only ratings for this project. I used numpy and matplotlib to visualize the results.
 
 
 ## Conclusion
